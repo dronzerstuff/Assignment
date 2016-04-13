@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Infilect Assignment</string>
+    <string name="type">Select keyword</string>
+
+    <string-array name="suggestions">
+        <item>dress</item>
+        <item>T-shirt</item>
+        <item>top</item>
+        <item>pant</item>
+    </string-array>
+
+    <string name="title_activity_my__favourites">My Favourites</string>
+
+</resources>
